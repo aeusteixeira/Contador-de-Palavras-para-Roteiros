@@ -1,0 +1,19 @@
+Como está:
+
+JOÃO [animado]: Olá, Maria! Como você está hoje?
+
+MARIA [nervosa]: Oi, João. Estou um pouco nervosa, tenho uma apresentação importante hoje.
+
+JOÃO [encorajador]: Você vai se sair bem, Maria. Você sempre se prepara bem para suas apresentações.
+
+MARIA [agradecida]: Obrigada, João. Isso significa muito para mim.
+
+JOÃO [sorrindo]: De nada, Maria. Estou sempre aqui para apoiar você.
+
+Como ele deverá considerar: 
+
+Olá, Maria! Como você está hoje?
+Oi, João. Estou um pouco nervosa, tenho uma apresentação importante hoje.
+Você vai se sair bem, Maria. Você sempre se prepara bem para suas apresentações.
+Obrigada, João. Isso significa muito para mim.
+De nada, Maria. Estou sempre aqui para apoiar você.
